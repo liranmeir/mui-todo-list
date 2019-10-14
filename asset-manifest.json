@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mui-todo-list/static/css/main.f0208390.chunk.css",
+    "main.js": "/mui-todo-list/static/js/main.a0c96c7d.chunk.js",
+    "main.js.map": "/mui-todo-list/static/js/main.a0c96c7d.chunk.js.map",
+    "runtime-main.js": "/mui-todo-list/static/js/runtime-main.482ed317.js",
+    "runtime-main.js.map": "/mui-todo-list/static/js/runtime-main.482ed317.js.map",
+    "static/js/2.c814af64.chunk.js": "/mui-todo-list/static/js/2.c814af64.chunk.js",
+    "static/js/2.c814af64.chunk.js.map": "/mui-todo-list/static/js/2.c814af64.chunk.js.map",
+    "index.html": "/mui-todo-list/index.html",
+    "precache-manifest.6fa57fb4a1e0b1b0592d9feb10cf10c3.js": "/mui-todo-list/precache-manifest.6fa57fb4a1e0b1b0592d9feb10cf10c3.js",
+    "service-worker.js": "/mui-todo-list/service-worker.js",
+    "static/css/main.f0208390.chunk.css.map": "/mui-todo-list/static/css/main.f0208390.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.482ed317.js",
+    "static/js/2.c814af64.chunk.js",
+    "static/css/main.f0208390.chunk.css",
+    "static/js/main.a0c96c7d.chunk.js"
+  ]
+}
