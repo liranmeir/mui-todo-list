@@ -35,7 +35,7 @@ export default function TopBar() {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" className={classes.title}>
-          TODO LIST
+          TODO
         </Typography>
       </Toolbar>
     </AppBar>
